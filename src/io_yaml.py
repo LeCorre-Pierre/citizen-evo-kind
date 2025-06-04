@@ -1,5 +1,5 @@
 import yaml
-from src.map import MapData, Cell
+from map import MapData, Cell
 
 def save_map_to_yaml(map_data: MapData, filename: str):
     with open(filename, 'w') as f:

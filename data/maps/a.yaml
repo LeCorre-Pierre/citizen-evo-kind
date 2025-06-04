@@ -1,0 +1,178 @@
+Map:
+  Cells:
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 0
+    y: 0
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 0
+    y: 1
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 0
+    y: 2
+  - growth: 80
+    mine: true
+    occupied: false
+    resource: null
+    type: Green
+    x: 0
+    y: 3
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 0
+    y: 4
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 1
+    y: 0
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 1
+    y: 1
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Dirt
+    x: 1
+    y: 2
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 1
+    y: 3
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 1
+    y: 4
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 2
+    y: 0
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 2
+    y: 1
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Town
+    x: 2
+    y: 2
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 2
+    y: 3
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 2
+    y: 4
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 3
+    y: 0
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 3
+    y: 1
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 3
+    y: 2
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 3
+    y: 3
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 3
+    y: 4
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 4
+    y: 0
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 4
+    y: 1
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 4
+    y: 2
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 4
+    y: 3
+  - growth: null
+    mine: null
+    occupied: false
+    resource: null
+    type: Green
+    x: 4
+    y: 4
+  Size: 5x5
